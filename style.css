@@ -2,7 +2,29 @@ h1 {
     font-size: 60px;
     text-align: center;
 }
+
 li,
 p {
     font-size: 24px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    display: inline-block;
+    background-color: orange;
+    padding: 10px 20px;
+}
+
+p,
+ul,
+ol {
+    margin-left: 40px;
+}
+
+.main-page {
+    background-color: white;
 }
